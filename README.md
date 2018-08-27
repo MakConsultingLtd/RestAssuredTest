@@ -1,8 +1,18 @@
 # RestAssuredTest
 This is a Basic Test Automation frmaework for RESTful API testing. The framework is developed in Java, Rest-Assured, Cucumber and maven.
 
-Location:
+## Location:
+...
 Cucumber steps location = src/main/java/stepDef/restFul
 Cucumber test location  = test/resources/features/
 Cucumber config file    = src/main/java/steoDef/CucumberTest.java
+...
 
+## Recommended way to run the test in IDE
+...
+Uses IntelliJ, run the feature file under test/resources/features/apiTest.feature using the run button of IntelliJ
+...
+## maven compile command:
+...
+mvn clean install -Prun-cucumber-test
+...
