@@ -3,11 +3,11 @@ This is a Basic Test Automation frmaework for RESTful API testing. The framework
 
 ## Location:
 ...
-Cucumber steps location = src/main/java/stepDef/restFul
+### Cucumber steps location = src/main/java/stepDef/restFul
 ...
-Cucumber test location  = test/resources/features/
+### Cucumber test location  = test/resources/features/
 ...
-Cucumber config file    = src/main/java/steoDef/CucumberTest.java
+### Cucumber config file    = src/main/java/stepDef/CucumberTest.java
 ...
 
 ## Recommended way to run the test in IDE
